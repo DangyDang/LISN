@@ -1,0 +1,1 @@
+Hi, i'm still working on my project so the document is still missing some part. I'll update 2 chapter in the future including "Board Evaluation" and "Measuring Implementation". Feel free to comment. Thanks for the interest.
