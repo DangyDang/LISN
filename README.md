@@ -20,3 +20,15 @@ There is still one chapter left to complete: - **Measurement Implementation**. I
 The project is still a work in progress, but I'm getting closer to a complete documentation set.
 
 Stay tuned, and thanks for following along!
+
+### Update — November 9, 2026
+
+The project is officially complete!
+
+I've finished the documentation, including the LISN measurement procedures, experimental evaluation, and practical noise reduction experiments using ferrite cores.
+
+This project has been a great hands-on learning experience, covering circuit design, simulation, PCB development, debugging, and EMC measurements.
+
+Thank you to everyone who has shown interest in this project. Feedback and suggestions are still welcome!
+
+**Project Status: Completed.**
