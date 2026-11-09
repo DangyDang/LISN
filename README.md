@@ -32,3 +32,7 @@ This project has been a great hands-on learning experience, covering circuit des
 Thank you to everyone who has shown interest in this project. Feedback and suggestions are still welcome!
 
 **Project Status: Completed.**
+
+
+
+P.S. Special thanks to Nguyen Thanh Long and Nguyen Thanh Tung from the Sensor Lab, SEEE-HUST, for their help and support throughout this project!
