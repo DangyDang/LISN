@@ -25,7 +25,7 @@ Stay tuned, and thanks for following along!
 
 The project is officially complete!
 
-I've finished the documentation, including the LISN measurement procedures, experimental evaluation, and practical noise reduction experiments using ferrite cores.
+I've finished the documentation.
 
 This project has been a great hands-on learning experience, covering circuit design, simulation, PCB development, debugging, and EMC measurements.
 
